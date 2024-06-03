@@ -1,6 +1,6 @@
 ---
 - taxonomy: ISP
-  icon: fa-signal-bars
+  icon: fa-signal
   list: 
     - term: 中国移动
       links:
