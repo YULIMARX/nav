@@ -1,6 +1,6 @@
 ---
 - taxonomy: ISP
-  icon: fa-download
+  icon: fa-signal-bars
   list: 
     - term: 中国移动
       links:
@@ -48,21 +48,63 @@
           logo: 
           url: https://tidi.mobi/b/
           description: 永辉
+        - title: 心级服务俱乐部
+          logo: 
+          url: https://app.fmcc.com.cn/bass-loyaltyclubH5/home
+          description: 福建移动
+
     - term: 中国电信
       links:
         - title: 老男人游戏网
           url: https://www.oldmantvg.net/
           description: 仓储式主机资源站 精校 完整 极致 静待您的垂青
+          
     - term: 中国联通
       links:
         - title: 老男人游戏网
           url: https://www.oldmantvg.net/
           description: 仓储式主机资源站 精校 完整 极致 静待您的垂青
+          
     - term: 中国广电
       links:
         - title: 老男人游戏网
           url: https://www.oldmantvg.net/
           description: 仓储式主机资源站 精校 完整 极致 静待您的垂青
+
+    - term: 省钱宝互助
+      links:
+        - title: Ⅰ
+          logo: 
+          url: https://app.fmcc.com.cn/saveMoneyH5/?configId=3&phoneNo=MTgzNTA4NTM4MDY%3D
+          description: 
+        - title: Ⅱ
+          logo: 
+          url: https://app.fmcc.com.cn/saveMoneyH5/?configId=3&phoneNo=MTUyNTk4MTk5Mjc%3D
+          description: 
+        - title: Ⅲ
+          logo: 
+          url: https://app.fmcc.com.cn/saveMoneyH5/?configId=6&phoneNo=MTg4NTk5NTEwNjc%3D
+          description: 
+        - title: Ⅳ
+          logo: 
+          url: https://app.fmcc.com.cn/saveMoneyH5/?configId=5&phoneNo=MTM2MjUwNTg3MzU%3D
+          description: 
+        - title: Ⅴ
+          logo: 
+          url: https://app.fmcc.com.cn/saveMoneyH5/?configId=3&phoneNo=MTc4NTA5OTAwOTA=
+          description: 
+        - title: Ⅵ
+          logo: 
+          url: https://app.fmcc.com.cn/saveMoneyH5/?configId=3&phoneNo=MTU4NTkyOTAxNDg%3D
+          description: 
+        - title: Ⅶ
+          logo: 
+          url: https://app.fmcc.com.cn/saveMoneyH5/?configId=3&phoneNo=MTM3NzQ3Mjc0MDE%3D
+          description: 
+        - title: Ⅷ
+          logo: 
+          url: https://app.fmcc.com.cn/saveMoneyH5/?configId=3&phoneNo=MTMxMjMxNTY0OTk%3D
+          description: 
           
 - taxonomy: 云服务平台
   icon: fa-cloud
