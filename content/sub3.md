@@ -1,8 +1,8 @@
 ---
 type: nav
-title: 子页面二
+title: 子页面三
 search: 
-  enable: ture
+  enable: false
 edit:
   enable: true
   url: https://github.com/YULIMARX/nav/blob/main/content/sub3.md
