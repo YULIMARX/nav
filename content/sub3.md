@@ -1046,11 +1046,11 @@ data:
   icon: fa-link
   friend:
     - title: 子页面一
-      url: sub1
-      description: 本站子页面1
+      url: ../sub1
+      description: 本站子页面二
     - title: 子页面二
-      url: sub2
-      description: 本站子页面2
+      url: ../sub2
+      description: 本站子页面二
     - title: webstack.cc
       url: https://webstack.cc
       description: webstack - 设计师网址导航
