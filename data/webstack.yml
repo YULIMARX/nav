@@ -20,26 +20,6 @@
           logo: 
           url: https://wap.fj.10086.cn/bass-newEquityH5/
           description: 福建移动红包雨
-        - title: 橄榄头
-          logo: 
-          url: https://www.fjglt.com/
-          description: 主页
-        - title: 橄榄头
-          logo: 
-          url: http://f0q.cn/1pollw
-          description: 福建移动
-        - title: 橄榄头
-          logo: 
-          url: http://f0q.cn/29Ha7n
-          description: 福建电信
-        - title: 橄榄头
-          logo: 
-          url: http://f0q.cn/1rkqsX
-          description: 福建联通
-        - title: 橄榄头
-          logo: 
-          url: http://f0q.cn/22eqE6
-          description: 福建广电
         - title: 福建移动权益
           logo: 
           url: https://tidi.mobi/j/
@@ -55,9 +35,9 @@
 
     - term: 中国电信
       links:
-        - title: 老男人游戏网
-          url: https://www.oldmantvg.net/
-          description: 仓储式主机资源站 精校 完整 极致 静待您的垂青
+        - title: 飞young商城
+          url: https://m.fj.189.cn/index.php?route=white_card/index&white_affiliate_id=&storeId=2628
+          description: 选号码、选套餐、办宽带、加流量尽在飞young商城
           
     - term: 中国联通
       links:
@@ -105,6 +85,29 @@
           logo: 
           url: https://app.fmcc.com.cn/saveMoneyH5/?configId=3&phoneNo=MTMxMjMxNTY0OTk%3D
           description: 
+
+    - term: 橄榄头
+      links:
+        - title: 橄榄头
+          logo: 
+          url: https://www.fjglt.com/
+          description: 主页
+        - title: 橄榄头
+          logo: 
+          url: http://f0q.cn/1pollw
+          description: 福建移动
+        - title: 橄榄头
+          logo: 
+          url: http://f0q.cn/29Ha7n
+          description: 福建电信
+        - title: 橄榄头
+          logo: 
+          url: http://f0q.cn/1rkqsX
+          description: 福建联通
+        - title: 橄榄头
+          logo: 
+          url: http://f0q.cn/22eqE6
+          description: 福建广电
           
 - taxonomy: 云服务平台
   icon: fa-cloud
