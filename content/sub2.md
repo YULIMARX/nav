@@ -5,7 +5,7 @@ search:
   enable: false
 edit:
   enable: true
-  url: https://github.com/oulh/nav/blob/main/content/sub2.md
+  url: https://github.com/YULIMARX/nav/blob/main/content/sub2.md
 
 data:
 
