@@ -137,6 +137,9 @@ data: #以下为导航链接内容
     - title: 子页面二
       url: ../sub2
       description: 本站子页面二
+    - title: 子页面三
+      url: ../sub3
+      description: 本站子页面三
     - title: webstack.cc
       url: https://webstack.cc
       description: webstack - 设计师网址导航
