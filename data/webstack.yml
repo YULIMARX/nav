@@ -1,5 +1,110 @@
 ---
-
+- taxonomy: ISP
+  icon: fa-download
+  list: 
+    - term: 中国移动
+      links:
+        - title: 咪咕快游
+          logo: 
+          url: https://www.migufun.com/
+          description: 咪咕快游主页
+        - title: 咪咕快游
+          logo: 
+          url: https://www.migufun.com/middleh5/?appChannel=40257748961&sso=ho&ssoType=cmcc&channelId=P00000025745&yx=1100494004
+          description: 关怀版签到两小时
+        - title: 权益超市
+          logo: 
+          url: https://fjqy-market.cmicvip.cn/
+          description: 中国移动权益超市
+        - title: 红包雨
+          logo: 
+          url: https://wap.fj.10086.cn/bass-newEquityH5/
+          description: 福建移动红包雨
+        - title: 橄榄头
+          logo: 
+          url: https://www.fjglt.com/
+          description: 主页
+        - title: 橄榄头
+          logo: 
+          url: http://f0q.cn/1pollw
+          description: 福建移动
+        - title: 橄榄头
+          logo: 
+          url: http://f0q.cn/29Ha7n
+          description: 福建电信
+        - title: 橄榄头
+          logo: 
+          url: http://f0q.cn/1rkqsX
+          description: 福建联通
+        - title: 橄榄头
+          logo: 
+          url: http://f0q.cn/22eqE6
+          description: 福建广电
+        - title: 福建移动权益
+          logo: 
+          url: https://tidi.mobi/j/
+          description: 朴朴
+        - title: 福建移动权益
+          logo: 
+          url: https://tidi.mobi/b/
+          description: 永辉
+    - term: 中国电信
+      links:
+        - title: 老男人游戏网
+          url: https://www.oldmantvg.net/
+          description: 仓储式主机资源站 精校 完整 极致 静待您的垂青
+    - term: 中国联通
+      links:
+        - title: 老男人游戏网
+          url: https://www.oldmantvg.net/
+          description: 仓储式主机资源站 精校 完整 极致 静待您的垂青
+    - term: 中国广电
+      links:
+        - title: 老男人游戏网
+          url: https://www.oldmantvg.net/
+          description: 仓储式主机资源站 精校 完整 极致 静待您的垂青
+          
+- taxonomy: 云服务平台
+  icon: fa-cloud
+  links: 
+    - title: Github
+      url: https://github.com/
+  
+- taxonomy: 网络资源
+  icon: fa-download
+  list: 
+    - term: 软件
+      links:
+        - title: 果核剥壳
+          url: https://www.ghxi.com/
+          description: 互联网的净土。PC软件，手机软件，正版软件，破解软件
+    - term: 游戏
+      links:
+        - title: 老男人游戏网
+          url: https://www.oldmantvg.net/
+          description: 仓储式主机资源站 精校 完整 极致 静待您的垂青
+          
+- taxonomy: 影视影音
+  icon: fa-video-camera
+  list: 
+    - term: 影视
+      links:
+        - title: 阿里小站
+          url: https://pan666.cn
+          description: 阿里云盘资源共享站。人人为我，我为人人的共享资源社区
+    - term: 字幕
+      links:
+        - title: 字幕库
+          url: https://zmk.pw/
+        - title: SubHD
+          url: https://subhd.tv/
+    - term: 音乐
+      links:
+        - title: 果核音乐搜搜
+          url: https://music.ghxi.com/
+        - title: 音乐磁场
+          url: https://www.hifini.com/
+      
 - taxonomy: 常用推荐
   icon: fa-star
   links: 
