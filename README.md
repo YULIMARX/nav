@@ -2,7 +2,9 @@
 
 完整的hugo目录结构，可以直接拷贝使用，不需要本地生成。结合自动构建，可在线编辑，自动发布。
 
-详细内容请看主题 [hugo-webstack](https://github.com/oulh/hugo-webstack)
+详细内容请看主题 [hugo-webstack（已Fork）](https://github.com/YULIMARX/hugo-webstack)
+
+原版主题[hugo-webstack](https://github.com/oulh/hugo-webstack)
 
 访问链接：[oulh.github.io/nav](https://oulh.github.io/nav/)
 
