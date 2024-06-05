@@ -2,7 +2,7 @@
 type: nav
 title: 子页面二
 search: 
-  enable: false
+  enable: ture
 edit:
   enable: true
   url: https://github.com/YULIMARX/nav/blob/main/content/sub2.md
