@@ -113,7 +113,10 @@
 - taxonomy: 常用推荐
   icon: fa-star
   links: 
-    
+    - title: Fontawesome中文网
+      logo: 
+      url: https://fontawesome.com.cn/v5
+      description: 网页icon获取地址
 
 - taxonomy: 社区咨询
   icon: fa-regular fa-newspaper
