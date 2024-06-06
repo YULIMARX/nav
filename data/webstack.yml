@@ -81,7 +81,7 @@
           description: 选号码、选套餐、办宽带、加流量尽在飞young商城
 
 - taxonomy: 中国联通
-  icon: fa-brands fa-bluetooth
+  icon: fa-solid fa-atom
   list: 
     - term: 中国联通
       links:
