@@ -9,7 +9,7 @@ edit:
 
 data:
 
-- taxonomy: 常用推荐
+- taxonomy: 科技共享导航
   icon: fa-star
   links: 
     - title: YouTube
@@ -21,6 +21,10 @@ data:
       logo:  ../images/logos/kjgxa999f-kjgx1fr3l-001.ico
       url: https://kjgx668.blogspot.com/
       description: 资源分享，详细图文教程。
+    - title: 论坛交流
+      logo: 
+      url: https://kjgx.freeflarum.com/
+      description: 问题描述，技术交流。
     - title: 环球巴士
       qrcode: 
       logo: ../images/logos/HQBS.png
@@ -38,6 +42,11 @@ data:
       logo:  ../images/logos/5eac6d69dc12980944f98.jpg
       url: https://app.xintaifree.com?from=5431/
       description: shadowrocket 小火箭 | quantumult x 圈x | 礼品卡/兑换码 | ChatGPT plus 应有尽有！⏰客服在线时间08:00-23:00
+    - title: NewBing
+      qrcode: 
+      logo:  
+      url: https://bing.kjgxbing.cloudns.be/web/#/
+      description: 无需梯子直接使用，内置GPT4，DALLE3以及各种插件 
     - title: Telegram
       logo: 
       url: https://t.me/kjgxZY/
@@ -58,6 +67,31 @@ data:
     - title: UUID生成
       url: https://1024tools.com/uuid/
       description: UUID在线生成
+    - title: 短链接在线生成
+      qrcode: 
+      logo:  
+      url: https://duanlianjie.szg502797091.workers.dev/kjgx/
+      description: 链接缩短,永久有效,自定义后缀/LocalStorage
+    - title: 文叔叔
+      qrcode: 
+      logo:  
+      url: https://www.wenshushu.cn/
+      description: 传临时文件,大文件、永不限速 
+    - title: 网络剪贴板
+      qrcode: 
+      logo:  
+      url: https://netcut.cn/
+      description: 提供数据暂存和传送服务
+    - title: 5ber eSIM卡
+      qrcode: 
+      logo:  
+      url: https://esim.5ber.com/?language=en-US&utm_source=kjgx&utm_medium=kjgx&utm_campaign=kjgx
+      description: 让国行手机也有eSIM功能
+    - title: 可可影视
+      qrcode: 
+      logo:  
+      url: https://www.keke1.app/
+      description: 拥有海量影视资源，涵盖了各大主流影视平台和影视网站的视频内容
          
 - taxonomy: 友情链接
   icon: fa-link
