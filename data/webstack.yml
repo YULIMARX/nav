@@ -1,6 +1,6 @@
 ---
 - taxonomy: 中国移动
-  icon: fad fa-signal
+  icon: fa-solid fa-signal
   list: 
     - term: 咪咕快游
       links:
@@ -72,7 +72,7 @@
           description: 
 
 - taxonomy: 中国电信
-  icon: fad fa-signal-4
+  icon: fa-solid fa-signal-strong
   list: 
     - term: 中国电信
       links:
