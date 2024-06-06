@@ -1,8 +1,8 @@
 ---
-- taxonomy: ISP
-  icon: fa-signal
+- taxonomy: 中国移动
+  icon: fad fa-signal-alt
   list: 
-    - term: 中国移动
+    - term: 咪咕快游
       links:
         - title: 咪咕快游
           logo: 
@@ -12,10 +12,13 @@
           logo: 
           url: https://www.migufun.com/middleh5/?appChannel=40257748961&sso=ho&ssoType=cmcc&channelId=P00000025745&yx=1100494004
           description: 关怀版签到两小时
-        - title: 权益超市
+
+    - term: 福建移动
+      links:
+        - title: 权益超市（福小圈）
           logo: 
           url: https://fjqy-market.cmicvip.cn/
-          description: 中国移动权益超市
+          description: 福建移动权益超市
         - title: 红包雨
           logo: 
           url: https://wap.fj.10086.cn/bass-newEquityH5/
@@ -32,25 +35,6 @@
           logo: 
           url: https://app.fmcc.com.cn/bass-loyaltyclubH5/home
           description: 福建移动
-
-    - term: 中国电信
-      links:
-        - title: 飞young商城
-          url: https://m.fj.189.cn/index.php?route=white_card/index&white_affiliate_id=&storeId=2628
-          description: 选号码、选套餐、办宽带、加流量尽在飞young商城
-          
-    - term: 中国联通
-      links:
-        - title: 老男人游戏网
-          url: https://www.oldmantvg.net/
-          description: 仓储式主机资源站 精校 完整 极致 静待您的垂青
-          
-    - term: 中国广电
-      links:
-        - title: 志愿汇广电套餐
-          logo: 
-          url: https://m.zyh365.com/html/2022/gdydk/index.html
-          description: 升龙卡、祥龙卡、双百、乐活卡、青春卡、（5G）精彩套餐
 
     - term: 省钱宝互助
       links:
@@ -87,6 +71,37 @@
           url: https://app.fmcc.com.cn/saveMoneyH5/?configId=3&phoneNo=MTMxMjMxNTY0OTk%3D
           description: 
 
+- taxonomy: 中国电信
+  icon: fad fa-signal-alt-3
+  list: 
+    - term: 中国电信
+      links:
+        - title: 飞young商城
+          url: https://m.fj.189.cn/index.php?route=white_card/index&white_affiliate_id=&storeId=2628
+          description: 选号码、选套餐、办宽带、加流量尽在飞young商城
+
+- taxonomy: 中国联通
+  icon: fad fa-signal-alt-2
+  list: 
+    - term: 中国联通
+      links:
+        - title: 老男人游戏网
+          url: https://www.oldmantvg.net/
+          description: 仓储式主机资源站 精校 完整 极致 静待您的垂青
+
+- taxonomy: 中国广电
+  icon: fad fa-signal-alt-1
+  list: 
+    - term: 套餐
+      links:
+        - title: 志愿汇广电套餐
+          logo: 
+          url: https://m.zyh365.com/html/2022/gdydk/index.html
+          description: 升龙卡、祥龙卡、双百、乐活卡、青春卡、（5G）精彩套餐
+
+- taxonomy: 橄榄头
+  icon: fal fa-link
+  list: 
     - term: 橄榄头
       links: 
         - title: 橄榄头
@@ -117,6 +132,10 @@
       logo: 
       url: https://fontawesome.com.cn/v5
       description: 网页icon获取地址
+    - title: 网络剪贴板
+      logo: 
+      url: https://netcut.cn/
+      description: 提供数据暂存和传送服务
      
 - taxonomy: 友情链接
   icon: fa-link
