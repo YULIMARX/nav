@@ -72,7 +72,7 @@
           description: 
 
 - taxonomy: 中国电信
-  icon: fa-solid fa-signal-strong
+  icon: fa-solid fa-wifi
   list: 
     - term: 中国电信
       links:
@@ -81,7 +81,7 @@
           description: 选号码、选套餐、办宽带、加流量尽在飞young商城
 
 - taxonomy: 中国联通
-  icon: fad fa-signal-3
+  icon: fa-brands fa-nfc-symbol
   list: 
     - term: 中国联通
       links:
@@ -90,7 +90,7 @@
           description: 仓储式主机资源站 精校 完整 极致 静待您的垂青
 
 - taxonomy: 中国广电
-  icon: fad fa-signal-2
+  icon: fa-solid fa-satellite-dish
   list: 
     - term: 套餐
       links:
