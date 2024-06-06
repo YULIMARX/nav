@@ -1,6 +1,6 @@
 ---
 - taxonomy: 中国移动
-  icon: fa-signal-alt
+  icon: fad fa-signal
   list: 
     - term: 咪咕快游
       links:
@@ -72,7 +72,7 @@
           description: 
 
 - taxonomy: 中国电信
-  icon: fa-signal-alt-3
+  icon: fad fa-signal-4
   list: 
     - term: 中国电信
       links:
@@ -81,7 +81,7 @@
           description: 选号码、选套餐、办宽带、加流量尽在飞young商城
 
 - taxonomy: 中国联通
-  icon: fa-signal-alt-2
+  icon: fad fa-signal-3
   list: 
     - term: 中国联通
       links:
@@ -90,7 +90,7 @@
           description: 仓储式主机资源站 精校 完整 极致 静待您的垂青
 
 - taxonomy: 中国广电
-  icon: fa-signal-alt-1
+  icon: fad fa-signal-2
   list: 
     - term: 套餐
       links:
