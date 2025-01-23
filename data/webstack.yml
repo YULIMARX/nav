@@ -145,6 +145,10 @@
       logo: 
       url: https://netcut.cn/
       description: 提供数据暂存和传送服务
+    - title: 一块剪贴板
+      logo: 
+      url: https://ykjtb.com/
+      description: 快捷的在线剪贴板
      
 - taxonomy: 友情链接
   icon: fa-link
