@@ -272,7 +272,7 @@
         <!-- 利用iowen API 获取网址icon START --> 
         $(".geticon").each(function(){
             var url = $(this).find('a').attr('href');
-            var apiUrl="https://favicon.ipv4.dns-dynamic.net/"+url.replace(/^https?:\/\//, '').replace(/\/.*$/, '')+".ico"
+            var apiUrl="https://favicon.10099.dpdns.org/"+url.replace(/^https?:\/\//, '').replace(/\/.*$/, '')+".ico"
             if ($(this).find('img').attr('data-src').length === 0) {
                 $(this).find('img').attr('data-src', apiUrl);
             }
